@@ -6,3 +6,7 @@ expo-env.d.ts
 # @end expo-cli
 node_modules
 .expo/
+.DS_Store
+*.DS_Store
+.xcode.env.local
+**/ios/Flutter/ephemeral/
