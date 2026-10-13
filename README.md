@@ -1,3 +1,11 @@
+> **This sample is out of date.** It was built for an older Mapsted SDK (the legacy `mapsted-react-native`
+> package and the old `Mapsted/podspec-simulator` CocoaPods source), and its Expo SDK 51 / React Native 0.74
+> is below the React Native 0.76 that the current wrapper requires. Do not use it as a starting point.
+>
+> For the current React Native SDK, use **[MapstedSampleReactNative](https://github.com/MapstedHQ/MapstedSampleReactNative)**
+> (npm [`@mapsted/maps-react-native`](https://www.npmjs.com/package/@mapsted/maps-react-native) 26.7.2) and the
+> [developer guides](https://developer.mapsted.com/mobile-sdk/).
+
 # Mapsted Package Installation
 
 ## Getting Started
